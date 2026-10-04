@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maazgul.github.io/5-letter-words-finder/sitemap.xml
