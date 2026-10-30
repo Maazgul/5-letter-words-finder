@@ -2,26 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://maazgul.github.io/5-letter-words-finder/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://maazgul.github.io/5-letter-words-finder/about.html</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maazgul.github.io/5-letter-words-finder/contact.html</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maazgul.github.io/5-letter-words-finder/privacy.html</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://maazgul.github.io/5-letter-words-finder/index.html</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
