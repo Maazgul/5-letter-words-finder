@@ -1,15 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Main Pages -->
   <url>
     <loc>https://maazgul.github.io/5-letter-words-finder/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://maazgul.github.io/5-letter-words-finder/index.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://maazgul.github.io/5-letter-words-finder/about.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maazgul.github.io/5-letter-words-finder/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maazgul.github.io/5-letter-words-finder/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Starting With Pages (A to Z) -->
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=A</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=B</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=C</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=D</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=E</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=F</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=G</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=H</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=I</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=J</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=K</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=L</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=M</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=N</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=O</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=P</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=Q</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=R</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=S</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=T</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=U</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=V</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=W</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=X</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=Y</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://maazgul.github.io/5-letter-words-finder/words-starting-with.html?letter=Z</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
 </urlset>
